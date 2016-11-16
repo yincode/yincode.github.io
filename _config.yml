@@ -1,38 +1,38 @@
 # Site settings
-title: Microdust
+title: Explore
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+tagline: "探索未来"
+description: "在遙遠的地方 一切虔誠終必相遇"
 baseurl: ""
-url: "http://azeril.me"  
+url: ""
 #url: "http://localhost:4000"
 
 # About/contact
-owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+owner:
+  name: "plor"
+  email: 1836899619@qq.com
+  bio: ""
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: http://p1.bpimg.com/567571/9afa2901d3e320ab.jpg
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+douban_username: plor
+twitter_username: plor
+github_username: plor
+facebook_username: plor
+weibo_username: plor
+zhihu_username: plor
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
 
-gems: 
+gems:
 - jekyll-gallery-generator
 - jekyll-paginate
 permalink: none
@@ -48,7 +48,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -57,7 +57,7 @@ defaults:
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
+# Comments
 comments :
   provider : duoshuo
   duoshuo :
