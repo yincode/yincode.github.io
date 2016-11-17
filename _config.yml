@@ -17,10 +17,10 @@ owner:
 gavatar: http://p1.bpimg.com/567571/9afa2901d3e320ab.jpg
 favicon: img/favicon.ico
 
-douban_username: plor
-twitter_username: plor
-github_username: plor
-facebook_username: plor
+douban_username:
+twitter_username:
+github_username: yincode
+facebook_username:
 weibo_username: plor
 zhihu_username: plor
 
@@ -67,8 +67,4 @@ comments :
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in footer navigation
