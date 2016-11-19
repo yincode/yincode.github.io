@@ -53,9 +53,9 @@ kramdown:
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
-Duoshuo settings
+# Duoshuo settings
 duoshuo_username: Yin Blog
-#Share component is depend on Comment so we can NOT use share only.
+# Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
@@ -63,10 +63,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: [f4916bfb4bc13ea7a718be9385905447]
+# ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-87659359-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
 
