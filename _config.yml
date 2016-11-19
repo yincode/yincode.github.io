@@ -4,7 +4,7 @@ SEOTitle: 殷占峰 的博客 | Yin Blog
 header-img: img/home-bg.jpg
 email: yincoding@gmail.com
 description: "殷占峰|专注web前端开发|这里是殷占峰 的个人博客，与你一起发现更大的世界"
-keyword: "殷占峰, 殷占峰, 鬼栈, 殷占峰的博客, Yin Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品"
+keyword: "殷占峰,殷占峰的博客,Yin Blog,博客,个人网站, 互联网, 前端, 设计, 产品"
 url: "https://yincode.github.io"
 # your host, for absolute URL
 baseurl: ""
@@ -54,7 +54,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Yin Blog
+duoshuo_username: yincode
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
