@@ -7,7 +7,7 @@ description: "殷占峰|专注web前端开发|这里是殷占峰 的个人博客
 keyword: "殷占峰,殷占峰的博客,Yin Blog,博客,个人网站, 互联网, 前端, 设计, 产品"
 url: "https://yincode.github.io"
 # your host, for absolute URL
-baseurl: "/"
+baseurl: ""
 # for example, '/blog' if your blog hosted on 'host/blog'
 
 
