@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: yincoding@gmail.com
 description: "殷占峰|专注web前端开发|这里是殷占峰 的个人博客，与你一起发现更大的世界"
 keyword: "殷占峰,殷占峰的博客,Yin Blog,博客,个人网站, 互联网, 前端, 设计, 产品"
-url: "https://yincode.github.io"
+url: "http://yinzf.win/"
 # your host, for absolute URL
 baseurl: ""
 # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,8 +13,8 @@ baseurl: ""
 
 
 # SNS settings
-RSS: true
-weibo_username:     plor
+RSS: false
+weibo_username:     心中有梦勿忘初心
 zhihu_username:     plor
 github_username:    yincode
 #twitter_username:  plor
@@ -54,9 +54,10 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: plor
+duoshuo_username: yincode
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: true
+# set to false if you want to use Comment without Sharing
 
 
 
@@ -72,10 +73,12 @@ ga_track_id: 'UA-87659359-1'            # Format: UA-xxxxxx-xx
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: true
+# whether or not using Sidebar.
 sidebar-about-description: "专注web前端开发<br>
 热爱生活的人，生活也爱他"
-sidebar-avatar: /img/plor.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/plor.jpg
+# use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -94,8 +97,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        #title: "Su",
-        #href: "http://su.gallery/"
+        title: "廖雪峰",
+        href: "http://www.liaoxuefeng.com/"
     },{
         #title: "乱序",
         #href: "http://mida.re/"
