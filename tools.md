@@ -2,7 +2,7 @@
 title: Tools
 layout: default
 description: 工欲善其事，必先利其器
-header-img: "images/tools.jpg"
+header-img: "img/tools.jpg"
 ---
 
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
