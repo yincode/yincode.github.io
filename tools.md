@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 工具收藏
+title: Tools
 categories: [blog ]
 tags: [ tools, ]
 description: 「工具收藏」
