@@ -16,7 +16,6 @@ description: 「工具收藏」
    [irfanview]({http://www.irfanview.com/);
 
 2. 截图、取色、配色工具
-
    [picpick](http://ngwin.com/picpick/download);
 
 
