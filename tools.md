@@ -28,3 +28,7 @@ description: 「工具收藏」
 
    [picpick](http://ngwin.com/picpick/download){:target="_blank"}
 
+3. 浏览器前缀自动检测添加
+
+   [prefix-free](http://leaverou.github.io/prefixfree/){:target="_blank"}
+
