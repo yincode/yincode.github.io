@@ -16,7 +16,27 @@ description: 「工具收藏」
 
 2. 电脑文件搜索神器
 
-   [Listary](http://www.listary.com/){:target="_blank"}
+   [Everything](http://www.voidtools.com/){:target="_blank"}
+
+3. 邮件处理工具
+
+   [Foxmail](http://www.foxmail.com/){:target="_blank"}
+
+4. 知识管理工具
+
+   [印象笔记](https://www.yinxiang.com/){:target="_blank"}
+
+5. 思维导图工具
+
+   [Xmind](http://www.xmindchina.net/){:target="_blank"}
+
+6. Markdown编辑器
+
+   [typora](https://www.typora.io/){:target="_blank"}
+
+   ​
+
+   ​
 
 ### 前端工具###
 
@@ -24,9 +44,9 @@ description: 「工具收藏」
 
    [irfanview]({http://www.irfanview.com/){:target="_blank"}
 
-2. 截图、取色、配色工具
+2. 截图、取色
 
-   [picpick](http://ngwin.com/picpick/download){:target="_blank"}
+   [FastStone Capture](http://www.softerviews.org/FastStone.html){:target="_blank"}
 
 3. 浏览器前缀自动检测添加
 
